@@ -1,0 +1,104 @@
+{
+    "categories" : [
+        { 
+            "id": 1, 
+            "name": "ván trượt tuyết" 
+        },
+        { "id": 2, 
+            "name": "xe trượt tuyết" 
+        },
+        { "id": 3, 
+            "name": "gậy trượt tuyết" 
+        }
+    ] ,
+    "products" : [
+        {
+            "id" : 1 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 1",
+            "price" : "500000",
+            "category" : 1
+        },
+        {
+            "id" : 2 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 2",
+            "price" : "500000",
+            "category" : 2
+        },
+        {
+            "id" : 3 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 3
+        },
+        {
+            "id" : 4 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 3
+        },
+        {
+            "id" : 5 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 3
+        },
+        {
+            "id" : 6 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 2
+        },
+        {
+            "id" : 7 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 1
+        },
+        {
+            "id" : 8 ,
+            "images" : [
+                {
+                    "url" : "https://img.favpng.com/16/16/3/clip-art-portable-network-graphics-image-transparency-png-favpng-CkmNXKDztkWkwFYw02NTqJVRt.jpg"
+                }
+            ],
+            "name" : "sản phẩm 3",
+            "price" : "500000",
+            "category" : 1
+        }
+    ]
+}
